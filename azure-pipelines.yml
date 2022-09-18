@@ -31,10 +31,9 @@ steps:
     sonarQubeRunAnalysis: false
 - task: CopyFiles@2
   inputs:
+    SourceFolder: '$(agent.builddirectory)'
     Contents: '**/*.jar'
     TargetFolder: '$(build.artifactstagingdirectory)'
-    CleanTargetFolder: true
-    OverWrite: true
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'

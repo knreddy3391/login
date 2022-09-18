@@ -1,0 +1,11 @@
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\validator\UserValidator.java
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\repository\UserRepository.java
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\config\WebSecurityConfig.java
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\model\Role.java
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\model\User.java
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\service\UserService.java
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\repository\RoleRepository.java
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\service\UserServiceImpl.java
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\Application.java
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\web\UserController.java
+E:\git_examples\login\src\main\java\net\guides\springboot\loginregistrationspringbootauthjsp\service\UserDetailsServiceImpl.java
